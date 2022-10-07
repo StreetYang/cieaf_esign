@@ -11,7 +11,7 @@ create a canvas for signature
 import { create } from 'cieaf_esign'
 
 // default
-esign.create();
+create();
 
 // common
 create({
