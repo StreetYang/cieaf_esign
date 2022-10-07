@@ -1,0 +1,22 @@
+{
+  "name": "cieaf_esign",
+  "version": "0.1.0",
+  "description": "a reactive element creater",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StreetYang/cieaf_esign.git"
+  },
+  "scripts": {
+    "build": "esbuild index.js --outfile=demo/cieaf_esign.js --bundle --minify --format=iife --global-name=cieaf_esign --target=es6 --legal-comments=inline"
+  },
+  "author": "Street Yang",
+  "license": "MIT",
+  "devDependencies": {
+    "esbuild": "^0.15.9"
+  },
+  "files": [
+    "demo",
+    "index.js"
+  ]
+}
