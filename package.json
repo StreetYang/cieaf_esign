@@ -1,7 +1,7 @@
 {
   "name": "cieaf_esign",
-  "version": "0.1.0",
-  "description": "a reactive element creater",
+  "version": "0.1.2",
+  "description": "create a canvas for touch signature",
   "main": "index.js",
   "repository": {
     "type": "git",

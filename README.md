@@ -1,5 +1,5 @@
 # cieaf_esign
-create a canvas for signature
+create a canvas for touch signature
 
 # 安装
 ```
