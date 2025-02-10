@@ -13,7 +13,7 @@
   "author": "Street Yang",
   "license": "MIT",
   "devDependencies": {
-    "esbuild": "^0.15.9"
+    "esbuild": "^0.25.0"
   },
   "files": [
     "demo",
